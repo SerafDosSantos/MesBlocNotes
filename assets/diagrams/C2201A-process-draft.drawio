@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-12T22:38:45.460Z" agent="5.0 (X11; CrOS x86_64 14388.52.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.91 Safari/537.36" etag="nsJOeICFig7FqpvhqLXW" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-12T22:39:54.272Z" agent="5.0 (X11; CrOS x86_64 14388.52.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.91 Safari/537.36" etag="mUk80n1hLn-vppVB063L" version="16.5.6" type="github">
   <diagram id="R70dUzjRxnxzWcbAyPcr" name="Page-1">
     <mxGraphModel dx="1264" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="-k-5RIro-pZg2MrqbPG--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--1" target="-k-5RIro-pZg2MrqbPG--2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-k-5RIro-pZg2MrqbPG--1" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="-k-5RIro-pZg2MrqbPG--1" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="385" y="74" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-k-5RIro-pZg2MrqbPG--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--2" target="-k-5RIro-pZg2MrqbPG--6">
@@ -46,7 +46,7 @@
         <mxCell id="-k-5RIro-pZg2MrqbPG--14" value="publish to html" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="178" y="1151" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-k-5RIro-pZg2MrqbPG--18" value="end" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="-k-5RIro-pZg2MrqbPG--18" value="end" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="198" y="1291" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-k-5RIro-pZg2MrqbPG--22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--20" target="-k-5RIro-pZg2MrqbPG--12">
@@ -67,7 +67,7 @@
             <mxPoint x="-38" y="-16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-k-5RIro-pZg2MrqbPG--20" value="for docs ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-k-5RIro-pZg2MrqbPG--20" value="for docs ?&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="385" y="794" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-k-5RIro-pZg2MrqbPG--25" value="integrate mermaid scripts into markdown documents" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="-k-5RIro-pZg2MrqbPG--26" value="publish to html" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="178" y="1151" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-k-5RIro-pZg2MrqbPG--27" value="end" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="-k-5RIro-pZg2MrqbPG--27" value="end" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="560" y="1141" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-k-5RIro-pZg2MrqbPG--30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--28" target="-k-5RIro-pZg2MrqbPG--27">
