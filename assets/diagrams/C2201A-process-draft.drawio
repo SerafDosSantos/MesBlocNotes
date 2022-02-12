@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" modified="2022-02-12T22:22:12.466Z" agent="5.0 (X11; CrOS x86_64 14388.52.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.91 Safari/537.36" etag="knLNNadGG1OwODP4CosQ" version="16.5.6" type="github">
+  <diagram id="R70dUzjRxnxzWcbAyPcr" name="Page-1">
+    <mxGraphModel dx="1264" dy="929" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1400" background="#E6E6E6" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-k-5RIro-pZg2MrqbPG--3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--1" target="-k-5RIro-pZg2MrqbPG--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--1" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="74" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--2" target="-k-5RIro-pZg2MrqbPG--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--2" value="load code" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="244" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--6" target="-k-5RIro-pZg2MrqbPG--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--6" value="translate into code schema" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--8" target="-k-5RIro-pZg2MrqbPG--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--8" value="convert code schema into diagram components" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="524" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--10" target="-k-5RIro-pZg2MrqbPG--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--10" value="assemble diagram components into mermaid diagrams" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="664" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--12" target="-k-5RIro-pZg2MrqbPG--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--12" value="integrate into markdown documents" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="804" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-k-5RIro-pZg2MrqbPG--14" target="-k-5RIro-pZg2MrqbPG--18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--14" value="publish to html" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="944" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-k-5RIro-pZg2MrqbPG--18" value="end" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1084" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
